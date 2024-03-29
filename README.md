@@ -1,2 +1,1 @@
-# pelmeshka
-typa pelmeshka
+//руслан 
